@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishnan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnan-tech&label=Profile%20views&color=0e75b6&style=plastic" alt="xditya" /> </p>
 
-- 🔭 I’m currently working on [Memephile](https://memephile.com/)
+- 🔭 I’m currently working on [Memephile [WEB]](https://memephile.com/) | [Memephile [ANDROID APP]](https://play.google.com/store/apps/details?id=com.memephile)
 
 - 📫 You can reach me on **Telegram - [@krishnan_navadia](https://t.me/krishnan_navadia)**
 
