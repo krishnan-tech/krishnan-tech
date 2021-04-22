@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Krishnan</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnan-tech&label=Profile%20views&color=0e75b6&style=plastic" alt="xditya" /> </p>
+<p align="left">
+I am a full-stack software engineer and entrepreneur with experience in large-scale web applications and back-end systems, using a variety of coding languages, frameworks, and technologies. I am self-motivated and passionate about programming, from designing system architecture to diving deep into frameworks and problem solving.
+
+In my spare time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.
+</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnan-tech&label=Profile%20views&color=0e75b6&style=plastic" alt="Krishnan Navadia" /> </p>
 
 - 🔭 I’m currently working on [Memephile [WEB]](https://memephile.com/) | [Memephile [ANDROID APP]](https://play.google.com/store/apps/details?id=com.memephile)
 
@@ -35,4 +40,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnan-tech&hide=Jupyter Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact" alt="krishnan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnan-tech&show_icons=true&theme=tokyonight&locale=en" alt="xditya" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnan-tech&show_icons=true&theme=tokyonight&locale=en" alt="Krishnan Navadia" /></p>
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=krishnan-tech&theme=dark)
