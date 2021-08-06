@@ -8,7 +8,9 @@ In my spare time, I am mostly adding new skills to my repertoire and sometimes o
 
 - 🔭 I’m currently working on [Memephile [WEB]](https://memephile.com/) | [Memephile [ANDROID APP]](https://play.google.com/store/apps/details?id=com.memephile)
 
-- 📫 You can reach me on **Telegram - [@krishnan_navadia](https://t.me/krishnan_navadia)**
+- 📫 You can reach me on 
+  - **Telegram - [@krishnan_navadia](https://t.me/krishnan_navadia)**
+  - **Linkedin - [krishnan-navadia](https://www.linkedin.com/in/krishnan-navadia/)**
 
 
 <h3 align="left">What I use:</h3>
