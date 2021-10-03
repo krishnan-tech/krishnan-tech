@@ -40,8 +40,6 @@ In my spare time, I am mostly adding new skills to my repertoire and sometimes o
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnan-tech&hide=Jupyter Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact" alt="krishnan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnan-tech&show_icons=true&theme=tokyonight&locale=en" alt="Krishnan Navadia" /></p>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=krishnan-tech&theme=dark)
+| ![Krishnan GitHub Statistics](https://github-readme-stats.vercel.app/api?username=krishnan-tech&show_icons=true&theme=tokyonight&locale=en) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnan-tech&hide=Jupyter%20Notebook&show_icons=true&langs_count=8&theme=tokyonight&locale=en&layout=compact) |
+| --- | --- |
+| ![Krishnan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krishnan-tech&theme=dark) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
