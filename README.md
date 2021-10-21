@@ -9,6 +9,7 @@ In my spare time, I am mostly adding new skills to my repertoire and sometimes o
 - 🔭 I’m currently working on [Memephile [WEB]](https://memephile.com/) | [Memephile [ANDROID APP]](https://play.google.com/store/apps/details?id=com.memephile)
 
 - 📫 You can reach me on 
+  - **Portfolio - [Krishnan Navadia](https://krishnan-tech.github.io/)**
   - **Telegram - [@krishnan_navadia](https://t.me/krishnan_navadia)**
   - **Linkedin - [krishnan-navadia](https://www.linkedin.com/in/krishnan-navadia/)**
 
