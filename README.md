@@ -13,6 +13,7 @@ In my spare time, I am mostly adding new skills to my repertoire and sometimes o
   - **Telegram - [@krishnan_navadia](https://t.me/krishnan_navadia)**
   - **Linkedin - [krishnan-navadia](https://www.linkedin.com/in/krishnan-navadia/)**
 
+- I am also a **Freelancer**!! Hire me as Full-Stack Developer, Cross-Platform Application Developer, Pentester, Machine Learning Engineer, DevOps Engineer.
 
 <h3 align="left">What I use:</h3>
 <p align="left"> 
