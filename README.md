@@ -4,6 +4,7 @@ I am a full-stack software engineer and entrepreneur with experience in large-sc
 
 In my spare time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnan-tech&label=Profile%20views&color=0e75b6&style=plastic" alt="Krishnan Navadia" /> </p>
 
 - 🔭 I’m currently working on [Memephile [WEB]](https://memephile.com/) | [Memephile [ANDROID APP]](https://play.google.com/store/apps/details?id=com.memephile)
@@ -13,7 +14,7 @@ In my spare time, I am mostly adding new skills to my repertoire and sometimes o
   - **Telegram - [@krishnan_navadia](https://t.me/krishnan_navadia)**
   - **Linkedin - [krishnan-navadia](https://www.linkedin.com/in/krishnan-navadia/)**
 
-- I am also a **Freelancer**!! Hire me as Full-Stack Developer, Cross-Platform Application Developer, Pentester, Machine Learning Engineer, DevOps Engineer.
+- I am also a **Freelancer**!! Hire me as Full-Stack Developer, Cross-Platform Application Developer, Pentester, Machine Learning Engineer, DevOps Engineer, Security Researcer.
 
 <h3 align="left">What I use:</h3>
 <p align="left"> 
